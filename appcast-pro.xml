@@ -4,9 +4,9 @@
 <title>【bAnAnA】Pro AI 更新頻道</title>
 <language>zh-tw</language>
 <item>
-<title>bAnAnA Pro AI 正式版 v15.11.0</title>
-            <sparkle:version>15.11.0</sparkle:version>
-            <sparkle:shortVersionString>15.11.0</sparkle:shortVersionString>
+<title>bAnAnA Pro AI 正式版 v15.11.1</title>
+            <sparkle:version>15.11.1</sparkle:version>
+            <sparkle:shortVersionString>15.11.1</sparkle:shortVersionString>
             <pubDate>Sat, 23 May 2026 13:00:00 +0800</pubDate>
             <description>
                 <![CDATA[
@@ -14,8 +14,8 @@
                 <b>核心變更：</b>內嵌完整版 200MB+ gram AI 智能語言模型數據庫。
                 ]]>
             </description>
-<enclosure url="https://github.com/hugeleler/bAnAnA/releases/download/v15.11.0/bAnAnA-15.11.0-pro-installer.exe" 
-           sparkle:version="15.11.0" 
+<enclosure url="https://github.com/hugeleler/bAnAnA/releases/download/v15.11.1/bAnAnA-15.11.1-pro-installer.exe" 
+           sparkle:version="15.11.1" 
            length="242000000"
            type="application/octet-stream"/>
 </item>
