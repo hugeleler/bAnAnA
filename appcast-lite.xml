@@ -7,7 +7,7 @@
 <title>bAnAnA Lite 正式版 v15.11.1</title>
             <sparkle:version>15.11.1</sparkle:version>
             <sparkle:shortVersionString>15.11.1</sparkle:shortVersionString>
-            <pubDate>Sat, 23 May 2026 13:00:00 +0800</pubDate>
+            <pubDate>2026-05-23 14:15:53 +08:00</pubDate>
             <description>
                 <![CDATA[
                 專屬魔改 Lite 輕量版本配置與詞庫更新。<br>
@@ -16,7 +16,7 @@
             </description>
 <enclosure url="https://github.com/hugeleler/bAnAnA/releases/download/v15.11.1/bAnAnA-15.11.1-lite-installer.exe" 
            sparkle:version="15.11.1" 
-           length="32296140"
+           length="32441863" 
            type="application/octet-stream"/>
 </item>
 </channel>
