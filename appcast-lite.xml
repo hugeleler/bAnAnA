@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>【bAnAnA】Lite 更新頻道</title>
+<language>zh-tw</language>
+<item>
+<title>bAnAnA Lite 正式版 v15.11.0</title>
+            <sparkle:version>15.11.0</sparkle:version>
+            <sparkle:shortVersionString>15.11.0</sparkle:shortVersionString>
+            <pubDate>Sat, 23 May 2026 13:00:00 +0800</pubDate>
+            <description>
+                <![CDATA[
+                專屬魔改 Lite 輕量版本配置與詞庫更新。<br>
+                歡迎使用 bAnAnA 數據核心輕量版！
+                ]]>
+            </description>
+<enclosure url="https://github.com/hugeleler/bAnAnA/releases/download/v15.11.0/bAnAnA-15.11.0-lite-installer.exe" 
+           sparkle:version="15.11.0" 
+           length="32296140"
+           type="application/octet-stream"/>
+</item>
+</channel>
+</rss>
