@@ -11,7 +11,7 @@
             <description>
                 <![CDATA[
                 <div style="font-size: 12px; font-family: 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif; line-height: 1.6; color: #333333;">
-                    Ver. 15.11.1
+                    Ver. 15.11.1<br>
 					- 集成萬象拼音方案庫，版本號：15.11.1；<br>
                     - 不含輔助碼版本；<br>
 					- 內嵌大型語言模型庫 Pro 完整版本。<br>
