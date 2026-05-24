@@ -8,12 +8,17 @@
             <sparkle:version>15.11.1</sparkle:version>
             <sparkle:shortVersionString>15.11.1</sparkle:shortVersionString>
             <pubDate>2026-05-23 14:15:53 +08:00</pubDate>
-            <description>
+			<description>
                 <![CDATA[
-                專屬魔改 Lite 輕量版本配置與詞庫更新。<br>
-                歡迎使用 bAnAnA 數據核心輕量版！
+                <div style="font-size: 12px; font-family: 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif; line-height: 1.6; color: #333333;">
+                    Ver. 15.11.1
+					- 集成萬象拼音方案庫，版本號：15.11.1；<br>
+                    - 不支持輔助碼；<br>
+					- 不含語言模型庫 Lite 輕量版本。<br>
+				</div>
                 ]]>
             </description>
+			
 <enclosure url="https://github.com/hugeleler/bAnAnA/releases/download/v15.11.1/bAnAnA-15.11.1-lite-installer.exe" 
            sparkle:version="15.11.1" 
            length="32441863" 
