@@ -5,21 +5,22 @@
 <language>zh-tw</language>
 <item>
 <title>bAnAnA Pro AI 正式版 v15.11.1</title>
-            <sparkle:version>15.11.1</sparkle:version>
-            <sparkle:shortVersionString>15.11.1</sparkle:shortVersionString>
+            <sparkle:version>15.11.1.0</sparkle:version>
+            <sparkle:shortVersionString>15.11.1.0</sparkle:shortVersionString>
             <pubDate>2026-05-23 14:15:22 +08:00</pubDate>
             <description>
                 <![CDATA[
                 <div style="font-size: 12px; font-family: 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif; line-height: 1.6; color: #333333;">
-                    Ver. 15.11.1<br>
-					- 集成萬象拼音方案庫，版本號：15.11.1；<br>
+                    Ver. 15.11.1.0<br>
+					<br>
+					- 集成萬象拼音方案庫，版本號：15.11.1.0；<br>
                     - 不含輔助碼版本；<br>
 					- 內嵌大型語言模型庫 Pro 完整版本。<br>
 				</div>
                 ]]>
             </description>
-<enclosure url="https://github.com/hugeleler/bAnAnA/releases/download/v15.11.1/bAnAnA-15.11.1-pro-installer.exe" 
-           sparkle:version="15.11.1" 
+<enclosure url="https://github.com/hugeleler/bAnAnA/releases/download/v15.11.1/bAnAnA-15.11.1.0-pro-installer.exe" 
+           sparkle:version="15.11.1.0" 
            length="214339749"
            type="application/octet-stream"/>
 </item>
