@@ -4,23 +4,23 @@
 <title>bAnAnA Pro 更新頻道</title>
 <language>zh-tw</language>
 <item>
-<title>bAnAnA Pro v15.13.0</title>
-            <sparkle:version>15.13.0.0</sparkle:version>
-            <sparkle:shortVersionString>15.13.0.0</sparkle:shortVersionString>
-            <pubDate>2026-06-07T12:16:51 +08:00</pubDate>
+<title>bAnAnA Pro v15.14.2</title>
+            <sparkle:version>15.14.2.0</sparkle:version>
+            <sparkle:shortVersionString>15.14.2.0</sparkle:shortVersionString>
+            <pubDate>2026-06-13T10:40:47 +08:00</pubDate>
             <description>
                 <![CDATA[
                 <div style="font-size: 12px; font-family: 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif; line-height: 1.6; color: #333333;">
-                    Ver. 15.13.0.0<br>
+                    Ver. 15.14.2.0<br>
 					<br>
-					- 集成萬象拼音方案庫，版本號：15.13.0.0；<br>
+					- 集成萬象拼音方案庫，版本號：15.14.2.0；<br>
                     - 不含輔助碼版本；<br>
 					- 內嵌大型語言模型庫 Pro 完整版本。<br>
 				</div>
                 ]]>
             </description>
-<enclosure url="https://github.com/hugeleler/bAnAnA/releases/download/v15.13.0/bAnAnA-15.13.0.0-pro-installer.exe" 
-           sparkle:version="15.13.0.0" 
+<enclosure url="https://github.com/hugeleler/bAnAnA/releases/download/v15.14.2/bAnAnA-15.14.2.0-pro-installer.exe" 
+           sparkle:version="15.14.2.0" 
            length="323415478"
            type="application/octet-stream"/>
 </item>
